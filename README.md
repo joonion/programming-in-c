@@ -2,22 +2,16 @@
 
 ## Chapter 01. 개발환경 구축
 
-* MinGW: Minimalist GNU for Windows
 * Visual Studio Code
+* MinGW: Minimalist GNU for Windows
 * Hello, World!
 * Git and GitHub
 
 ## Chapter 02. 프로그래밍 첫걸음
 
-* compiler, linker and loader
-* gcc
-
 ## Chapter 03. 자료형과 변수
 
 ## Chapter 04. 전처리와 입출력
-
-* Online Judge and BOJ
-* A+B, 별찍기
 
 ## Chapter 05. 연산자와 연산식
 
